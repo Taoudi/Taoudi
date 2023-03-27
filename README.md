@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div display:flex>
 <a href="https://github.com/taoudi">
   <img align="center" src="https://github-readme-stats-lyzk0bj8r-taoudi128-gmailcom.vercel.app/api?username=Taoudi&show_icons=true&theme=transparent&count_private=True" />
 </a>
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/taoudi">
   <img align="center" src="https://github-readme-stats-lyzk0bj8r-taoudi128-gmailcom.vercel.app/api/top-langs/?username=Taoudi&hide=jupyter%20notebook,Makefile,Batchfile,HTML&theme=transparent&count_private=false" />
 </a>
+<\div>

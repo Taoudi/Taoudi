@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a align="center" href="https://github.com/taoudi">
-  <img align="center" src="https://github-readme-stats-lyzk0bj8r-taoudi128-gmailcom.vercel.app/api/top-langs/?username=Taoudi&hide=jupyter%20notebook,Makefile,Batchfile,HTML&theme=transparent&count_private=false" >
-</a>
+<p align="center" href="https://github.com/taoudi">
+  <img src="https://github-readme-stats-lyzk0bj8r-taoudi128-gmailcom.vercel.app/api/top-langs/?username=Taoudi&hide=jupyter%20notebook,Makefile,Batchfile,HTML&theme=transparent&count_private=false" >
+</p>
